@@ -1,0 +1,5 @@
+# Python vitural environments
+.venv/
+
+# VSCODE history 
+.history
